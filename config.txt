@@ -1,0 +1,8 @@
+--CSV File Name--
+import-csv .\shinyApp_list.csv
+--CURL Location--
+".\curl\bin\curl.exe"
+--Bundle TAR GZ Location--
+'@".\bundle\bundle.tar.gz"'
+--App Name or Title--
+"shinyApp"
